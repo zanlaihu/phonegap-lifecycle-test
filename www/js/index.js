@@ -11,7 +11,7 @@
             }
         }
         
-    console.log(simpsons.firstName +" is from " + simpsons.address.city);
+    
         
     var homerString = JSON.stringify(simpsons);
         
