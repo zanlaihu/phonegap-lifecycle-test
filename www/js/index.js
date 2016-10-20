@@ -7,7 +7,7 @@
             "address": {
                 "streetAddress": "742 Evergreen Terrace",
                 "city": "Springfield",
-                "state": "?"
+                "state": "123"
             }
         }
         
@@ -22,6 +22,7 @@
     var simpsonJSON = JSON.parse(getSimpson);
         
     alert(simpsons.address.city);
+        
     }
 	
 	
